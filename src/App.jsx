@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import NavBar from './Components/navbar'
+import NavBar from './Components/Navbar'
 import HeroSection from './Components/Hero'
 import SkillsCarousel from './Components/Skills'
 import Projects from './Components/Projects'
